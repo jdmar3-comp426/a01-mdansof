@@ -1,0 +1,24 @@
+#Homepage{
+    font-family: 'Roberto',sans-serif;
+    font-weight:100;
+}
+
+.header{
+  text-align: center;  
+  font-size: 40px;
+  max-width: 100%;
+  max-height: 50%;
+}
+
+.intro h2{
+ text-align: center;
+ border-style: groove;
+ border-color: navy;
+}
+ul > li{
+    display:inline-block;
+    padding:30px;
+    width: 20%
+}
+
+
