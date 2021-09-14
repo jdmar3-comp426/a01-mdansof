@@ -15,10 +15,47 @@
  border-style: groove;
  border-color: navy;
 }
+.intro h2:hover{
+  background-color:#ff1818;
+}
+
 ul > li{
     display:inline-block;
     padding:30px;
     width: 20%
+}
+
+#Academia{
+  background-color: #a4cae1 !important;
+  text-align: center;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#Socials{
+  background-color: #bca0dc  !important;
+  text-align: center;
+  max-width: 100%;
+  max-height: 50%;
+}
+
+#food{
+  background-color: #db814d  !important;
+  text-align: center;
+  max-width: 100%;
+  max-height: 50%;
+}
+
+#food .header h2{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.dangers h2{
+  border-style: dotted;
+}
+
+#food .outro p{
+  border-style: double;
 }
 
 
